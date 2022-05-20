@@ -16,3 +16,4 @@
 ![파이썬과 함께하는 자료구조의 이해-16](https://user-images.githubusercontent.com/78308684/169491496-0837398b-d78a-4f66-a9e0-02999a2fe48e.jpg)
 ![파이썬과 함께하는 자료구조의 이해-17](https://user-images.githubusercontent.com/78308684/169491500-a67876fa-1880-4717-bd4a-49e100e14d8b.jpg)
 ![파이썬과 함께하는 자료구조의 이해-18](https://user-images.githubusercontent.com/78308684/169491502-6c669bd4-5513-4d7b-8eac-c7f77e3a19fd.jpg)
+ 
