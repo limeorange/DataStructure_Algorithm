@@ -27,6 +27,6 @@
 ![자료구조와 알고리즘 노트-19](https://user-images.githubusercontent.com/78308684/168755598-0ec97eb7-ead3-47a6-9245-a63b0b66b5a2.jpg)
 ![자료구조와 알고리즘 노트-20](https://user-images.githubusercontent.com/78308684/168755601-9097fc8e-0c7c-42d1-82aa-24058639b865.jpg)
 
-# 14장 노드 기반 
+# 14장 노드 기반 자료구조
 <!-- ![자료구조와 알고리즘 노트-21](https://user-images.githubusercontent.com/78308684/168755603-a978d19f-2d42-4ab3-a409-bcd4c3843e52.jpg) -->
 ![자료구조와 알고리즘 노트-22](https://user-images.githubusercontent.com/78308684/168755604-bcf17ee4-57c9-4135-873d-ff98246f700a.jpg)
