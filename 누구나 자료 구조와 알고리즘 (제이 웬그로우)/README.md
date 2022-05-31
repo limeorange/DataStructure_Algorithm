@@ -1,23 +1,32 @@
 # DataStructure_Algorithm
 &lt;누구나 자료 구조와 알고리즘, 제이 웬그로우>
-![자료구조와 알고리즘 노트-02](https://user-images.githubusercontent.com/78308684/168755539-b7341130-837f-406c-8160-9b06c37954ac.jpg)
+# 10장 재귀를 사용한 재귀적 반복
+<!-- ![자료구조와 알고리즘 노트-02](https://user-images.githubusercontent.com/78308684/168755539-b7341130-837f-406c-8160-9b06c37954ac.jpg) -->
 ![자료구조와 알고리즘 노트-03](https://user-images.githubusercontent.com/78308684/168755550-ccb94178-db9a-4ad9-9147-b1279976e23e.jpg)
-![자료구조와 알고리즘 노트-04](https://user-images.githubusercontent.com/78308684/168755562-a848c65a-9af7-48a9-b6c0-abbf94642e57.jpg)
+
+# 11장 재귀적으로 작성하는 법
+<!-- ![자료구조와 알고리즘 노트-04](https://user-images.githubusercontent.com/78308684/168755562-a848c65a-9af7-48a9-b6c0-abbf94642e57.jpg) -->
 ![자료구조와 알고리즘 노트-05](https://user-images.githubusercontent.com/78308684/168755564-c0c0606c-3479-4d49-a369-ebe1be3bdbc9.jpg)
 ![자료구조와 알고리즘 노트-06](https://user-images.githubusercontent.com/78308684/168755566-200a8be8-fef9-40cb-8151-9fa38ae0f746.jpg)
 ![자료구조와 알고리즘 노트-07](https://user-images.githubusercontent.com/78308684/168755571-c30434b1-6c65-49dc-b7f9-be325ba14413.jpg)
 ![자료구조와 알고리즘 노트-08](https://user-images.githubusercontent.com/78308684/168755573-2550554b-1800-45f6-a839-99065372a406.jpg)
 ![자료구조와 알고리즘 노트-09](https://user-images.githubusercontent.com/78308684/168755575-d5010ee5-d86a-40f2-83df-fe507ab2ca2e.jpg)
-![자료구조와 알고리즘 노트-10](https://user-images.githubusercontent.com/78308684/168755577-1136f835-0715-4cf1-8883-f54b5610e807.jpg)
+
+# 12장 동적 프로그래밍
+<!-- ![자료구조와 알고리즘 노트-10](https://user-images.githubusercontent.com/78308684/168755577-1136f835-0715-4cf1-8883-f54b5610e807.jpg) -->
 ![자료구조와 알고리즘 노트-11](https://user-images.githubusercontent.com/78308684/168755579-a69845b6-f29f-4073-b591-f9dbbf9a3ebc.jpg)
 ![자료구조와 알고리즘 노트-12](https://user-images.githubusercontent.com/78308684/168755580-a2aa9b89-7972-4031-8d73-119812131f09.jpg)
 ![자료구조와 알고리즘 노트-13](https://user-images.githubusercontent.com/78308684/168755582-7bfd4118-2473-4adf-b68e-6a3bd5452c24.jpg)
 ![자료구조와 알고리즘 노트-14](https://user-images.githubusercontent.com/78308684/168755584-5ff700dd-84a2-4141-9ae4-eb6c4657d88d.jpg)
-![자료구조와 알고리즘 노트-15](https://user-images.githubusercontent.com/78308684/168755586-f62ae43e-1510-45d1-9696-32ed865110d1.jpg)
+
+# 13장 속도를 높이는 재귀 알고리즘
+<!-- ![자료구조와 알고리즘 노트-15](https://user-images.githubusercontent.com/78308684/168755586-f62ae43e-1510-45d1-9696-32ed865110d1.jpg) -->
 ![자료구조와 알고리즘 노트-16](https://user-images.githubusercontent.com/78308684/168755589-2a83ae54-afe2-459e-b4cf-74df6fb40672.jpg)
 ![자료구조와 알고리즘 노트-17](https://user-images.githubusercontent.com/78308684/168755593-3476a043-1bfe-458f-805f-18380e9e7931.jpg)
 ![자료구조와 알고리즘 노트-18](https://user-images.githubusercontent.com/78308684/168755596-fca84f4b-933c-4770-bc98-3ad4d78b819d.jpg)
 ![자료구조와 알고리즘 노트-19](https://user-images.githubusercontent.com/78308684/168755598-0ec97eb7-ead3-47a6-9245-a63b0b66b5a2.jpg)
 ![자료구조와 알고리즘 노트-20](https://user-images.githubusercontent.com/78308684/168755601-9097fc8e-0c7c-42d1-82aa-24058639b865.jpg)
-![자료구조와 알고리즘 노트-21](https://user-images.githubusercontent.com/78308684/168755603-a978d19f-2d42-4ab3-a409-bcd4c3843e52.jpg)
+
+# 14장 노드 기반 자료구조
+<!-- ![자료구조와 알고리즘 노트-21](https://user-images.githubusercontent.com/78308684/168755603-a978d19f-2d42-4ab3-a409-bcd4c3843e52.jpg) -->
 ![자료구조와 알고리즘 노트-22](https://user-images.githubusercontent.com/78308684/168755604-bcf17ee4-57c9-4135-873d-ff98246f700a.jpg)
