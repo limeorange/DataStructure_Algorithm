@@ -11,4 +11,5 @@
   
 2. 파이썬과 함께하는 자료구조의 이해 (양성봉, 2018)
 
-<img width="300" alt="스크린샷 2022-06-03 오후 4 17 31" src="https://user-images.githubusercontent.com/78308684/171806559-06b5c757-f8c9-4351-b9c4-9ca5753ce32c.png">
+<a href='https://github.com/limeorange/DataStructure_Algorithm/tree/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%9D%98%20%EC%9D%B4%ED%95%B4%20(%EC%96%91%EC%84%B1%EB%B4%89)' target = '_blank'>
+<img width="300" alt="스크린샷 2022-06-03 오후 4 17 31" src="https://user-images.githubusercontent.com/78308684/171806559-06b5c757-f8c9-4351-b9c4-9ca5753ce32c.png"></a>
