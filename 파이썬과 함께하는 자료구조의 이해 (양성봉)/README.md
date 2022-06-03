@@ -1,9 +1,9 @@
 # Contents 
 | Chapter | Title | Study | Code | Blog |
 |:-------:|:-----:|:---:|:----:|:----:|
-| 2 | 연결리스트 | [📝](#chap2-연결리스트) |  |  |
-| 3 | 스택과 큐 | [📝](#chap3-스택과-큐) |  ||
-| 4 | 트리 | [📝](#chap4-트리) |  ||
+| 2 | 연결리스트 | [📝](#chap2-연결리스트) | [💻](https://github.com/limeorange/DataStructure_Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%9D%98%20%EC%9D%B4%ED%95%B4%20(%EC%96%91%EC%84%B1%EB%B4%89)/Ch02.%20%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8.ipynb) |  |
+| 3 | 스택과 큐 | [📝](#chap3-스택과-큐) | [💻](https://github.com/limeorange/DataStructure_Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%9D%98%20%EC%9D%B4%ED%95%B4%20(%EC%96%91%EC%84%B1%EB%B4%89)/Ch03.%20%EC%8A%A4%ED%83%9D%EA%B3%BC%20%ED%81%90.ipynb) ||
+| 4 | 트리 | [📝](#chap4-트리) | [💻](https://github.com/limeorange/DataStructure_Algorithm/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%9D%98%20%EC%9D%B4%ED%95%B4%20(%EC%96%91%EC%84%B1%EB%B4%89)/Ch04.%20%ED%8A%B8%EB%A6%AC.ipynb) ||
 | 5 | 탐색트리 | [📝](#chap5-탐색트리) |  ||
 | 7 | 정렬 | [📝](#chap7-정렬) |  ||
 
