@@ -1,3 +1,8 @@
+# Book
+파이썬과 함께하는 자료구조의 이해 (양성봉, 2018)
+
+<img width="300" alt="스크린샷 2022-06-03 오후 4 17 31" src="https://user-images.githubusercontent.com/78308684/171806559-06b5c757-f8c9-4351-b9c4-9ca5753ce32c.png">
+
 # Contents 
 | Chapter | Title | Study | Code | Blog |
 |:-------:|:-----:|:---:|:----:|:----:|
