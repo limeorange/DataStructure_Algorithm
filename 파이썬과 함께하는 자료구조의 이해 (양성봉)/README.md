@@ -31,7 +31,7 @@
 ![파이썬과 함께하는 자료구조의 이해-25](https://user-images.githubusercontent.com/78308684/171800221-229f5798-a8ef-41e9-9250-7bd3a3ff8494.jpg)
 ![파이썬과 함께하는 자료구조의 이해-26](https://user-images.githubusercontent.com/78308684/171800227-3d01269f-a360-4f88-adae-496ab677d9eb.jpg)
 
-<!-- 7장 -->!
+<!-- 7장 -->
 [파이썬과 함께하는 자료구조의 이해-27](https://user-images.githubusercontent.com/78308684/171800259-95271d0c-a6b6-48c9-8c2a-1d36e1dbf301.jpg)
 ![파이썬과 함께하는 자료구조의 이해-28](https://user-images.githubusercontent.com/78308684/171800273-82925275-5a31-4413-b79f-f18c15c99603.jpg)
 ![파이썬과 함께하는 자료구조의 이해-29](https://user-images.githubusercontent.com/78308684/171800286-9a9ab755-8a29-4314-8c4d-46dbcf4aecff.jpg)
