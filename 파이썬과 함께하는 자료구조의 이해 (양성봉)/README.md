@@ -9,7 +9,9 @@
 
 <!-- 2장 -->
 # Chap2 연결리스트
-<span style='color:#808080'>[Back to Contents..📚](#Contents)</span>
+[Back to Contents..📚](#Contents)</span>
+
+<span style='color:#808080'>test</span>
 
 ![파이썬과 함께하는 자료구조의 이해-02](https://user-images.githubusercontent.com/78308684/171799813-f28106b3-d5b9-4539-85f3-02152acc89ad.jpg)
 ![파이썬과 함께하는 자료구조의 이해-03](https://user-images.githubusercontent.com/78308684/171799736-59bf81e3-b2b1-434d-9de8-5ef679b35cdd.jpg)
